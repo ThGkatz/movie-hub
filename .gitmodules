@@ -1,7 +1,3 @@
-[submodule "movie-hub-backend"]
-	path = movie-hub-backend
-	url = https://github.com/ThGkatz/movie-hub-backend
-	branch = master
 [submodule "movie-hub-frontend"]
 	path = movie-hub-frontend
 	url = https://github.com/ThGkatz/movie-hub-frontend
