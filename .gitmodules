@@ -6,3 +6,7 @@
 	path = movie-hub-frontend
 	url = https://github.com/ThGkatz/movie-hub-frontend
 	branch = master
+[submodule "movie-saving-service"]
+	path = movie-saving-service
+	url = https://github.com/ThGkatz/movie-saving-service
+	branch = master
